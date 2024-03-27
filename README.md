@@ -147,7 +147,7 @@ exerciseRoutine(function () {
 
 We can rewrite this to be more concise by using an arrow function:
 
-```js
+```js 
 exerciseRoutine(() => {
   console.log("Stretch! Work that core!");
 });
